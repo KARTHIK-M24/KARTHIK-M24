@@ -5,8 +5,8 @@
   <img src="C:\Users\pc\Downloads\new1.gif" width="40%" height="10%"/>
 </p>
 
-![Image](https://github.com/user-attachments/assets/1a192fc9-f441-4cca-bf4a-af5cf964afa5)
-![Image](https://github.com/user-attachments/assets/7d69a7a5-a397-419a-abde-af1e0a89c8a7)
+![Image](https://github.com/user-attachments/assets/1a192fc9-f441-4cca-bf4a-af5cf964afa5)         ![Image](https://github.com/user-attachments/assets/7d69a7a5-a397-419a-abde-af1e0a89c8a7)
+
 
 
 ## 🌐 Socials:
