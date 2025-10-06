@@ -2,8 +2,11 @@
 <h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
 <p align="center">
   <img src="C:\Users\pc\Downloads\new.gif" width="53%"/>
-  <img src="C:\Users\pc\Downloads\new1.gif" width="40%"/>
+  <img src="C:\Users\pc\Downloads\new1.gif" width="40%" height="10%"/>
 </p>
+
+![Image](https://github.com/user-attachments/assets/1a192fc9-f441-4cca-bf4a-af5cf964afa5)
+![Image](https://github.com/user-attachments/assets/7d69a7a5-a397-419a-abde-af1e0a89c8a7)
 
 
 ## 🌐 Socials:
@@ -11,6 +14,13 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Image](https://github.com/user-attachments/assets/9a03bc95-4fe6-4825-a9fc-76c28655bfdc)
+<div align="center">
+  <img src="C:\Users\pc\Downloads\snake on github.svg"/>
+</div>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KARTHIK-M24&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KARTHIK-M24&theme=default_repocard&hide_border=false)<br/>
