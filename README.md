@@ -1,3 +1,11 @@
+<h1 align="center">🛡️ Imran Alam - Cybersecurity Analyst & Ethical Hacker 🔐</h1>
+<h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
+
+
+<p align="center">
+  <img src="C:\Users\pc\Downloads\68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457859585a6d4f585a6f616d786e616a4a704d6a646c6432357462584a6f4e6e426a5a6e4979616a4a36596a5a335a584672596e70784d535a6c63443.gif" width="53%"/>
+  <img src="C:\Users\pc\Downloads\68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656d747a616d7072626a5a7a656a4673646d68724f58427559334e79646d396d4d574a784d476c3162324a724f5870324d47357464435a6c63443.gif" width="40%"/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akash_kumar_m24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthik2902) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nsd.karthik9@gmail.com) 
